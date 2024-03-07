@@ -102,4 +102,6 @@
     <string name="backup_transport_title">Pilih penyedia cadangan</string>
     <string name="fast_charging_title">Pengisian daya cepat</string>
     <string name="fast_charging_summary">Nonaktifkan untuk mengurangi panas yang dihasilkan oleh perangkat saat mengisi daya atau untuk memperpanjang masa pakai baterai</string>
+    <string name="custom_patch">Tingkat patch keamanan Android</string>
+    <string name="custom_patch_info">Tidak ada lagi patch keamanan resmi untuk versi Android ini. \nSemua patch yang terdapat dalam versi ini merupakan backport dari versi yang lebih baru.</string>
 </resources>
